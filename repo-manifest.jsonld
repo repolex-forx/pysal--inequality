@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/inequality/commit/77d802d6b85728e6fddb3f8871c2fa9ba72ae237",
       "git:hexsha": "77d802d6b85728e6fddb3f8871c2fa9ba72ae237",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:10:27.960402+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/inequality/commit/fd6c1c1758343c7fa05b87b3960ecd1a3aff74e5",
