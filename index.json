@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "inequality",
+  "versions": [
+    {
+      "commit": "77d802d6b85728e6fddb3f8871c2fa9ba72ae237",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:10:27.960859+00:00"
+    }
+  ]
+}
